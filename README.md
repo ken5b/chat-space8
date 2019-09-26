@@ -45,4 +45,5 @@
 - has_many :users, through: :members
 - has_many :messages
 
-
+## ログイン方法
+- Email: test1@gmail.com / パスワード: 12345678でログインできます
